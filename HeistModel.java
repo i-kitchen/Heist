@@ -21,7 +21,6 @@ import java.util.Scanner;
 /**
  * Class definition for the model of a Heist game.
  *
- * @author atd: Aaron T Deever
  */
 
 public class HeistModel extends Observable{
